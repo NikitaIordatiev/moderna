@@ -1,0 +1,15 @@
+html{
+    box-sizing: border-box;
+}
+*,
+*::before,
+*::after{
+    box-sizing: inherit;
+}
+body{
+    background-color: pink;
+}
+.test{
+    margin: 700px;
+    display: flex;
+}
